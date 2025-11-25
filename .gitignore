@@ -1,0 +1,19 @@
+# build output
+thread_hash
+*.o
+*.a
+*.so
+a.out
+core
+
+# editor / swap
+*~
+\#*\#
+.\#*
+*.swp
+*.swo
+
+# os / ide
+.DS_Store
+.vscode/
+.idea/
